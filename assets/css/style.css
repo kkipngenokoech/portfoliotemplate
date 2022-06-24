@@ -229,7 +229,8 @@ html {
 }
 
 .navbar-brand {
-  font-family: Agustina;
+  font-family: 'Courier New', Courier, monospace;
+  color: #ced4e2;
   font-size: 30px;
   font-weight: bold;
 }
