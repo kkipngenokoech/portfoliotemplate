@@ -1,0 +1,59 @@
+# Query: site_name
+# ContextLines: 1
+
+11 results - 11 files
+
+design.html:
+  15          <meta name="AdsBot-Google" content="index,follow" />
+  16:         <meta property="og:site_name" content="https://kkipngenokoech.netlify.app/experience.html">
+  17          <meta property="og:title" content="kipngeno koech | Experience">
+
+education.html:
+  15  
+  16:     <meta property="og:site_name" content="https://portfolio.smaranjitghose.codes/education.html">
+  17      <meta property="og:title" content="kipngeno koech| Education">
+
+event.html:
+  20      <meta property="og:description" content="The open source project that takes care of showcasing your work while you focus on learning and innovation"/>
+  21:     <meta property="og:site_name" content="https://kkipngenokoech.netlify.app/event.html"/>
+  22      <meta property="og:url" content="https://kkipngenokoech.netlify.app/event.html"/>
+
+experience.html:
+  13      <meta name="AdsBot-Google" content="index,follow" />
+  14:     <meta property="og:site_name" content="https://kkipngenokoech.netlify.app/experience.html">
+  15      <meta property="og:title" content="kipngeno koech| Experience">
+
+index.html:
+  13      <meta name="AdsBot-Google" content="index,follow" />
+  14:     <meta property="og:site_name" content="https://kkipngenokoech.netlify.app/">
+  15      <meta property="og:title" content="kipngeno koech | Home">
+
+projects.html:
+  21      <!-- Open Graph for Social Media -->
+  22:     <meta property="og:site_name" content="https://kkipngenokoech.netlify.app/projects.html" />
+  23      <meta property="og:title" content="kipngeno koech | Projects" />
+
+reference.html:
+  20  
+  21:     <meta property="og:site_name" content="https://kkipngenokoech.netlify.app/reference.html">
+  22      <meta property="og:title" content="kipngeno koech| reference">
+
+research.html:
+  20  
+  21:     <meta property="og:site_name" content="https://kkipngenokoech.netlify.app/research.html">
+  22      <meta property="og:title" content="kipngeno koech | Research">
+
+sem_temp.html:
+  23      <meta
+  24:       property="og:site_name"
+  25        content="https://kkipngenokoech.netlify.app/sem_temp.html"
+
+techstack.html:
+  23      <!-- Open Graph for Social Media -->
+  24:     <meta property="og:site_name" content="https://kkipngenokoechkoech.netlify.app/techstack.html" />
+  25      <meta property="og:title" content="Kipngeno koech | Tech Stack" />
+
+travel_temp.html:
+  19          <meta name="AdsBot-Google" content="index,follow" />
+  20:         <meta property="og:site_name" content="https://kkipngenokoech.netlify.app/experience.html">
+  21          <meta property="og:title" content="kipngeno koech | Experience">
