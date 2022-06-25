@@ -5,7 +5,7 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
+    title: "Data Analysis",
     cardImage: "assets/images/education-page/coursera2.svg",
     moocLink: "https://www.coursera.org/browse/data-science",
   },
@@ -45,10 +45,9 @@ const moocscards = [
     moocLink: "https://www.edx.org/learn/reactjs",
   },
   {
-    title: "Intro to React Native",
+    title: "Google IT Support",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+    moocLink:"https://www.coursera.org/programs/ssa-junior-achievement-africa-fjfbv?currentTab=MY_COURSES&productId=7lHCSlFIEeeffRIHljDI_g&productType=s12n&showMiniModal=true",
   },
   {
     title: "NodeJS, Express and MongoDB",
