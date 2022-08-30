@@ -5,6 +5,11 @@ AOS.init();
 const techStackCards = document.querySelector(".techstack-box");
 const techStack = [
   {
+    langImage: "assets/images/techstack-page/django.png",
+    langName: "Django Framework",
+    langDesc: "<li>The Django framework, is a free and open source, python based web framework that follow the model-template-views architecture pattern</li>",
+  },
+  {
     langImage: "assets/images/techstack-page/html.png",
     langName: "HyperText Markup Language",
     langDesc: "<li>The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser</li>",
