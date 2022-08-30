@@ -59,6 +59,11 @@ const techStack = [
     langName:"C",
     langDesc:"<li>C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system</li>"
   },
+  {
+    langImage: "assets/images/techstack-page/sql.jpg",
+    langName: "Structured Query Language",
+    langDesc: "<li>SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system</li>",
+  },
 ];
 
 const displayTechStacksCards = () => {
