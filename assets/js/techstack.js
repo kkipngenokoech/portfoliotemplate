@@ -5,7 +5,7 @@ AOS.init();
 const techStackCards = document.querySelector(".techstack-box");
 const techStack = [
   {
-    langImage: "assets/images/techstack-page/django.png",
+    langImage: "assets/images/techstack-page/django-logo-negative.svg",
     langName: "Django Framework",
     langDesc: "<li>The Django framework, is a free and open source, python based web framework that follow the model-template-views architecture pattern</li>",
   },
