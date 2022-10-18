@@ -10,60 +10,74 @@ const moocscards = [
     moocLink: "https://www.coursera.org/browse/data-science",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
-  },
-  {
-    title: "Machine Learning",
+    title: "Google Data Analytics",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    moocLink: "https://www.coursera.org/account/accomplishments/specialization/certificate/4R9U3F7LPLRRhttps://www.udemy.com/course/cryptography-for-beginners/",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
-  },
-  {
-    title: "Bootstrap 4",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
-  },
-  {
-    title: "Intro to React",
-    cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
-  },
-  {
-    title: "Google IT Support",
+    title: "Google IT support",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink:"https://www.coursera.org/programs/ssa-junior-achievement-africa-fjfbv?currentTab=MY_COURSES&productId=7lHCSlFIEeeffRIHljDI_g&productType=s12n&showMiniModal=true",
+    moocLink: "https://www.coursera.org/account/accomplishments/specialization/certificate/UBPNK26G468V",
   },
   {
-    title: "NodeJS, Express and MongoDB",
+    title: "Foundation: Data, Data, Everywhere",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
+    moocLink: "https://www.coursera.org/account/accomplishments/certificate/U949FNLL86BL",
   },
   {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
+    title: "Ask Questions to Make Data-Driven Decisions",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://www.coursera.org/account/accomplishments/certificate/FMQGJZG498G9",
   },
   {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink:
-      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+    title: "Technical Support Fundamentals ",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://www.coursera.org/account/accomplishments/certificate/7QB7UHM8JF8D",
+  },
+  {
+    title: "The Bits and Bytes of Computer Networking",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://www.coursera.org/account/accomplishments/certificate/T46GSHKY9H93",
+  },
+  {
+    title: "Operating Systems and You: Becoming a Power User",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://www.coursera.org/account/accomplishments/certificate/UNK55ZY6EW9X",
+  },
+  {
+    title: "System Administration and IT Infrastructure Services",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink:"https://www.coursera.org/account/accomplishments/certificate/PADMFV5AN7UQ",
+  },
+  {
+    title: "Prepare Data for Exploration",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://www.coursera.org/account/accomplishments/certificate/E7Z8ZYG86SHE",
+  },
+  {
+    title: "IT security, Defense against the digital dark arts",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://www.coursera.org/account/accomplishments/certificate/MYXAPRR2RJHP",
+  },
+  {
+    title: "Share Data Through the Art of Visualization",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink : "https://www.coursera.org/account/accomplishments/certificate/NXWRYG3ZLDTZ",
+  },
+  {
+    title: "Data Analysis with R programming",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink : "https://www.coursera.org/account/accomplishments/certificate/QUD3W5MKZ6FM",
+  },
+  {
+    title: "Analyze Data to Answer Questions",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink : "https://www.coursera.org/account/accomplishments/certificate/RH4KYCXVM7NU",
+  },
+  {
+    title: "Process Data from Dirty to Clean",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink : "https://www.coursera.org/account/accomplishments/certificate/RQ5TNAARUFGG",
   },
 ];
 
