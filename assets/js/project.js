@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "LittleMe",
-    cardImage: "assets/images/project-page/chatbot.jpeg",
+    cardImage: "assets/images/project-page/bot.jpg",
     description: "A classbot build using django",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://littleme-mvr3.onrender.com/",
