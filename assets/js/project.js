@@ -14,12 +14,12 @@ const projects = [
     Githublink: "https://github.com/kkipngenokoech/LittleMe",
   },
   {
-    title: "Chess Engine",
-    cardImage: "assets/images/project-page/chess.jpg",
-    description: "A chess engine for a popular game dev engine.",
+    title: "MarvelShop",
+    cardImage: "assets/images/project-page/marvelShop.jpeg",
+    description: "A e-commerce website to sell marvel tshirts",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://marvelshop.onrender.com/",
+    Githublink: "https://github.com/kkipngenokoech/Marvel",
   },
   {
     title: "Flappy Bird",
