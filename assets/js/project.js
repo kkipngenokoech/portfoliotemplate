@@ -93,7 +93,7 @@ const projects = [
   },
   {
     title: "Simple Express Server",
-    cardImage: "assets/images/project-page/express-facebook-share.png",
+    cardImage: "assets/images/project-page/expressjs_logo.png",
     description: "Built using express",
     tagimg:
       "https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png",
