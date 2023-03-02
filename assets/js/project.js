@@ -92,13 +92,13 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Movie Recommendation System",
-    cardImage: "assets/images/project-page/movie-recommendation.jpeg",
-    description: "Built using Tensorflow.",
+    title: "Simple Express Server",
+    cardImage: "assets/images/project-page/express-facebook-share.png",
+    description: "Built using express",
     tagimg:
       "https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://express-template-n848.onrender.com/",
+    Githublink: "https://github.com/kkipngenokoech/express",
   },
   {
     title: "Simple Node Server",
