@@ -24,7 +24,7 @@ const projects = [
   {
     title: "Github Component Card",
     cardImage: "assets/images/project-page/github.webp",
-    description: "Flappy bird game built using React.js",
+    description: "Github component card built using React.js's class components",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://githubcomponentcard.netlify.app/",
     Githublink: "https://github.com/kkipngenokoech/GithubCardComponent",
