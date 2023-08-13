@@ -22,12 +22,12 @@ const projects = [
     Githublink: "https://github.com/kkipngenokoech/Marvel",
   },
   {
-    title: "Flappy Bird",
-    cardImage: "assets/images/project-page/flappybird.png",
+    title: "Github Component Card",
+    cardImage: "assets/images/project-page/github.webp",
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://githubcomponentcard.netlify.app/",
+    Githublink: "https://github.com/kkipngenokoech/GithubCardComponent",
   },
   {
     title: "Exercise Tracker",
