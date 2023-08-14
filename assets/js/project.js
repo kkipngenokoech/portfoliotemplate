@@ -30,12 +30,12 @@ const projects = [
     Githublink: "https://github.com/kkipngenokoech/GithubCardComponent",
   },
   {
-    title: "Exercise Tracker",
-    cardImage: "assets/images/project-page/exercise.jpg",
-    description: "Exercise tracker built using basic redux.",
+    title: "Multiverse Events",
+    cardImage: "assets/images/project-page/multiverseevents-logo.png",
+    description: "Wilkomen to our speaker lineup page",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://multiverse-events.netlify.app/",
+    Githublink: "https://github.com/kkipngenokoech/multverse-events",
   },
   {
     title: "Recipe Ingredient Parser",
