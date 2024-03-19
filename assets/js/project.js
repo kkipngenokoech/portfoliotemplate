@@ -6,6 +6,14 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "TibuMifugo",
+    cardImage: "assets/images/project-page/tibumifugo.png",
+    description: "Our online animal clinic website",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://tibumifugo.vercel.app/",
+    Githublink: "https://github.com/kkipngenokoech/tibumifugo",
+  },
+  {
     title: "EverydayVisa",
     cardImage: "assets/images/project-page/everydayvisa.png",
     description: "pinintrest my own version",
@@ -32,7 +40,8 @@ const projects = [
   {
     title: "Github Component Card",
     cardImage: "assets/images/project-page/github.webp",
-    description: "Github component card built using React.js's class components",
+    description:
+      "Github component card built using React.js's class components",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://githubcomponentcard.netlify.app/",
     Githublink: "https://github.com/kkipngenokoech/GithubCardComponent",
